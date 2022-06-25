@@ -1,6 +1,6 @@
 👋 Hi, I’m @kolechr (Wanthongchai "Kole" Chaicharee)
 👀 I’m interested in anything programming related and love to develop.
-🌱 I graduated with BBA degree in MIS, I have been learning, building, contributing to projects to fill skills gap that I'm missing.
+🌱 I graduated with BBA degree in MIS, I'm committed to learn, build, contribute to fill skills gap that I'm missing.
 💞️ I’m looking forward to collaborate with the world towards the greater good!
 
 <!---
